@@ -1,0 +1,15 @@
+.button {
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  padding: 14px 36px;
+  background: #3F7AEE;
+
+  color: #F9FBFF;
+  font-family: Poppins;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 122.687%;
+  letter-spacing: 0.285px;
+}
